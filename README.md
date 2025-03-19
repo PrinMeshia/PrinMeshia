@@ -4,9 +4,6 @@
     <a href="www.linkedin.com/in/jonathan-vallee-87484826">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/PrinMeshia">
-      <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=PrinMeshia&style=flat-square&color=blue" alt=""/>
   <h1>
