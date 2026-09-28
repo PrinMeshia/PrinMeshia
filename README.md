@@ -5,10 +5,10 @@
     <a href="https://www.linkedin.com/in/jonathan-vallee-87484826" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:jonathan.vallee@example.com">
+    <a href="mailto:contact@medevia.fr">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://ton-portfolio.com" target="_blank">
+    <a href="https://portfolio.medevia.fr" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
     </a>
   </div>
